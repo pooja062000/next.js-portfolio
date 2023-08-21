@@ -22,13 +22,9 @@ export default function about() {
 
     
     <div className={aboutstyle.aboutmyresum}>Download Resume</div>
- </div>
+        </div>
             </div>
             
-
-
-        
-
         </>
     )
 }
