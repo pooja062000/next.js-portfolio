@@ -1,0 +1,82 @@
+.contactmainrow{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(241, 244, 246);
+}
+
+/*.contactmainbox{
+    width: 100%;
+	/*height: 141vh;
+	padding-bottom: 80px;
+	clear: both;
+	/*border: 1px solid black;
+	clear: both;
+    background: #f8f8f8;
+}*/
+
+.contactshadow{
+    font-size: 3.9em;
+	/*padding-left: 300px;*/
+	text-align: center;
+	padding-top: 30px;
+	font-weight: 700;
+	font-family: 'ZCOOL XiaoWei', serif;
+	letter-spacing: 1px;
+	color: rgba(0, 0, 0, 0.2);
+	padding-top: 94px;
+}
+.contactbold_text{
+    font-size: 44px;
+	text-align: center;
+	margin-top: -55px;
+	font-weight: 600;
+}
+.contactdescription{
+    width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 10px;
+	font-size: 21px;
+	color: rgba(0, 0, 0, 0.4);
+	line-height: 33px;
+	padding: 30px;
+}
+.contactcontact1{
+    width: 100%;
+	/*height: 520px;*/
+	margin-top: 30px;
+}
+.contactbold_address{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+	padding-top: 20px;
+	font-weight: 700;
+	text-align: center;
+
+}
+.contactbold_address1{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+	padding-top: 25px;
+	font-weight: 700;
+	text-align: center;
+
+}
+.contactbold_address2{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+	padding-top: 0px;
+	font-weight: 700;
+	text-align: center;
+
+}
+.contactaddress{
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px;
+}

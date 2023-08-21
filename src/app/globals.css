@@ -18,3 +18,11 @@
 
 body {
 }
+
+a{
+  padding: 35px;
+}
+
+a:hover{
+  color: #20c997;
+}

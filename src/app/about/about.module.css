@@ -1,15 +1,13 @@
 .aboutrow{
     width: 100%;
-    height: 650px;
-    border: 2px solid blue;
+    height: 510px;
     background-color: rgba(0, 0, 0, 0.768);
 }
 
 .aboutbox1{
     width: 60%;
-    height: 570px;
-    margin-top: 70px;
-    border: 2px solid white;
+    float: left;
+    padding-top: 70px;
 }
 
 .aboutmaintext{
@@ -38,14 +36,14 @@
     letter-spacing: 0.5px;
     line-height: 31px;
 }
-/*.aboutbox2{
+.aboutbox2{
     width: 36%;
     height: 460px;
     float: left;
     margin-top: 70px;
     margin-left: 60px;
-    border: 2px solid red;
-}*/
+    border: 2px solid re;
+}
 
 .abouteducation{
     color: #20c997;
@@ -57,10 +55,41 @@
     color: aliceblue;
     font-size: 18px;
     padding-left: 50px;
+    padding-top: 25px;
+}
+.aboutdegree:hover{
+    color: #20c997;
 }
 .aboutemail{
     color: aliceblue;
     font-size: 18px;
     padding-left: 50px;
     padding-top: 4px;
+}
+.aboutemail:hover{
+    color: #20c997;
+}
+.aboutfrontend{
+    color: aliceblue;
+    font-size: 18px;
+    padding-left: 50px;
+    padding-top: 4px;
+}
+
+.aboutfrontend:hover{
+    color: #20c997;
+}
+.aboutmyresum{
+    width: 165px;
+    height: 50px;
+    margin-left: 50px;
+    color: aliceblue;
+    text-align: center;
+    font-size: 16px;
+    padding-top: 9px;
+    border: 2px solid rgb(145, 138, 138);
+    margin-top: 30px;
+}
+.aboutmyresum:hover{
+    color: #20c997;
 }

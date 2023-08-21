@@ -4,25 +4,27 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 2px solid blueviolet;
     background-color: rgba(0, 0, 0, 0.861);
 }
 
 .Headerlogo{
-color: aqua;
+color: #20c997;
 width: 40%;
 height: 55px;
 float: left;
-border: 2px solid rgb(20, 19, 19);
+font-size: 20px;
+padding-top: 12px;
+margin-left: 35px;
 }
 
 .Headernavbarr{
 width: 50%;
 height: 55px;
 float: left;
-border: 2px solid red;
 color: aliceblue;
-text-align: center;
+text-align: end;
 font-size: 20px;
+padding-top: 12px;
+margin-left: 60px;
 }
 
