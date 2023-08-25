@@ -17,13 +17,23 @@ export default function contact() {
             below.</div>
             
          <div className={contactstyle.contactcontact1}>
-         <div className={contactstyle.contactbold_address}>Address <span className={contactstyle.contactaddress}> :1st Floor, Kanina Road Kosil,
+          <p className={contactstyle.contactbold_address}>Address <span className={contactstyle.contactaddress}> :1st Floor, Kanina Road Kosil,
                   Rewari<br />
-                  Haryana, Pin Code:-123402, INDIA.</span></div>
+                  Haryana, Pin Code:-123402, INDIA.</span></p>
+        
                   
-            <div className={contactstyle.contactbold_address1}>Phone<span> :+91-8929-812-912</span></div>
+            <div className={contactstyle.contactbold_address1}>Phone<span> :+91-9306314629</span></div>
             <div className={contactstyle.contactbold_address2}>Email<span> :info@poojamittal.in</span></div>
-         </div>
+    </div>
+
+    {/*<div className={contactstyle.contactmy}>
+      <div className={contactstyle.contactmainbox1}>
+        
+      <p className={contactstyle.contactbold_address}>Address <span className={contactstyle.contactaddress}> :1st Floor, Kanina Road Kosil,
+                  Rewari<br />
+                  Haryana, Pin Code:-123402, INDIA.</span></p>
+      </div>
+    </div>*/}
       </div>
         </div>
         

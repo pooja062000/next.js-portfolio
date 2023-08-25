@@ -12,7 +12,6 @@ export default function Header() {
             <div className={Headerstyle.Headernavbarr}>
              <Link href="/">Home</Link>
             <Link href="/about">About</Link>
-            <Link href="/skills">Skills</Link>
             <Link href="/contact">Contact</Link>
             </div>
             </div>

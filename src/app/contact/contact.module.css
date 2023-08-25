@@ -42,9 +42,10 @@
 	padding: 30px;
 }
 .contactcontact1{
-    width: 100%;
+    width: 28%;
 	/*height: 520px;*/
 	margin-top: 30px;
+	margin: 0 auto;
 }
 .contactbold_address{
     color: black;
@@ -52,8 +53,7 @@
     font-size: 18px;
 	padding-top: 20px;
 	font-weight: 700;
-	text-align: center;
-
+	text-align: left;
 }
 .contactbold_address1{
     color: black;
@@ -75,8 +75,28 @@
 }
 .contactaddress{
     font-weight: 400;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: -20px;
 }
+
+/*.contactmy{
+	width: 100%;
+	height: 200px;
+	border: 2px solid red;
+}
+
+.contactmainbox1{
+	width: 27%;
+	height: 200px;
+	margin: 0 auto;
+	border: 2px solid blue;
+}
+.contactaddress{
+    font-weight: 400;
+}
+.contactbold_address{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+	padding-top: 20px;
+	font-weight: 700;
+	text-align: left;
+}*/
